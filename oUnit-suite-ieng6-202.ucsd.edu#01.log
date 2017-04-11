@@ -1,0 +1,43 @@
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:0:fact is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:1:min1 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:2:min2 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:3:min3 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:4:min4 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:5:min5 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:6:fib1 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:7:fib2 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:8:fib3 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:9:fib4 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:10:fib5 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:11:fib6 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Test suite:12:test has failed.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: expected: aa but got: aaa in test suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: 
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:12:test.

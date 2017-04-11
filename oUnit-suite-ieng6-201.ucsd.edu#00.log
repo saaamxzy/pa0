@@ -1,0 +1,471 @@
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Runner: processes
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Chooser: simple
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration suite_name = "suite"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration cache_filename = "/home/linux/ieng6/oce/9k/zhx024/cse131/pa0/oUnit-$(suite_name).cache"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration display = "true"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration results_style_1_X = "false"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration verbose = "false"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration health_check_interval = "1."
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration testdata_dir = "none"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration chooser = "simple"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration output_html_dir = "none"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration processes_kill_period = "5."
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration runner = "processes"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration shards = "1"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration processes_grace_period = "5."
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration log_encoding = "utf-8"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration output_junit_file = "none"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Configuration output_file = "/home/linux/ieng6/oce/9k/zhx024/cse131/pa0/oUnit-$(suite_name)-$(shard_id).log"
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Using 1 workers maximum.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Starting worker number ieng6-201.ucsd.edu#01.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Worker ieng6-201.ucsd.edu#01 started.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:0:fact is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:1:min1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:2:min2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:3:min3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:4:min4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:5:min5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:6:fib1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:7:fib2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:8:fib3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:9:fib4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:10:fib5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:11:fib6 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:12:inorder1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:12:inorder1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:13:inorder2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:13:inorder2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:14:inorder3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:14:inorder3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:15:inorder4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:15:inorder4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:16:inorder5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:16:inorder5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:17:size1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:17:size1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:18:size2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:18:size2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:19:size3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:19:size3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:20:size4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:20:size4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:21:size5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:21:size5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:22:height1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:22:height1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:23:height2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:23:height2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:24:height3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:24:height3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:25:height4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:25:height4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:26:height5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:26:height5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:27:inc1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:27:inc1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:28:inc2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:28:inc2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:29:inc3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:29:inc3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:30:inc4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:30:inc4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:31:inc5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:31:inc5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:32:incempty is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:32:incempty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:33:long_strings1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:33:long_strings1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:34:long_strings2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:34:long_strings2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:35:long_strings3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:35:long_strings3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:36:long_strings4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:36:long_strings4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:37:long_strings5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:37:long_strings5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:38:long_strings6 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:38:long_strings6.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:39:long_strings7 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:39:long_strings7.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:40:long_strings8 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:40:long_strings8.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:41:long_strings9 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:41:long_strings9.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:42:long_strings10 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:42:long_strings10.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:43:long_strings_empty is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:43:long_strings_empty.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:44:every_other1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:44:every_other1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:45:every_other2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:45:every_other2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:46:every_other3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:46:every_other3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:47:every_other4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:47:every_other4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:48:every_other5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:48:every_other5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:49:sum_all1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:49:sum_all1.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:50:sum_all2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:50:sum_all2.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:51:sum_all3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:51:sum_all3.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:52:sum_all4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:52:sum_all4.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Still 1 tests running : suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Start test suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Still 1 tests running : suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: Test suite:53:sum_all5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Still 1 tests running : suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#01 I: End test suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Still 1 tests running : suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 1 tests running: suite:53:sum_all5.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: 0 tests running: .
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Worker ieng6-201.ucsd.edu#01 has ended.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Used 1 worker during test execution.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Run 54 tests with shard ieng6-201.ucsd.edu#01.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: ==============
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Summary:
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:53:sum_all5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:52:sum_all4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:51:sum_all3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:50:sum_all2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:49:sum_all1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:48:every_other5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:47:every_other4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:46:every_other3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:45:every_other2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:44:every_other1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:43:long_strings_empty is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:42:long_strings10 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:41:long_strings9 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:40:long_strings8 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:39:long_strings7 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:38:long_strings6 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:37:long_strings5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:36:long_strings4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:35:long_strings3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:34:long_strings2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:33:long_strings1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:32:incempty is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:31:inc5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:30:inc4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:29:inc3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:28:inc2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:27:inc1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:26:height5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:25:height4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:24:height3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:23:height2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:22:height1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:21:size5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:20:size4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:19:size3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:18:size2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:17:size1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:16:inorder5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:15:inorder4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:14:inorder3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:13:inorder2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:12:inorder1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:11:fib6 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:10:fib5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:9:fib4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:8:fib3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:7:fib2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:6:fib1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:5:min5 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:4:min4 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:3:min3 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:2:min2 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:1:min1 is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Test suite:0:fact is successful.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Ran: 54 tests in: 0.22 seconds.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Cases: 54.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Tried: 54.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Errors: 0.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Failures: 0.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Skip: 0.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Todo: 0.
+2017-04-11T00:19:58+00:00 ieng6-201.ucsd.edu#00 I: Timeout: 0.

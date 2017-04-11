@@ -1,0 +1,151 @@
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Runner: processes
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Chooser: simple
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration suite_name = "suite"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration cache_filename = "/home/linux/ieng6/oce/9k/zhx024/cse131/pa0/oUnit-$(suite_name).cache"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration display = "true"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration results_style_1_X = "false"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration verbose = "false"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration health_check_interval = "1."
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration testdata_dir = "none"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration chooser = "simple"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration output_html_dir = "none"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration processes_kill_period = "5."
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration runner = "processes"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration shards = "1"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration processes_grace_period = "5."
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration log_encoding = "utf-8"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration output_junit_file = "none"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Configuration output_file = "/home/linux/ieng6/oce/9k/zhx024/cse131/pa0/oUnit-$(suite_name)-$(shard_id).log"
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Using 1 workers maximum.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Starting worker number ieng6-202.ucsd.edu#01.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Worker ieng6-202.ucsd.edu#01 started.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:0:fact is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:0:fact.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:1:min1 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:1:min1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:2:min2 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:2:min2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:3:min3 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:3:min3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:4:min4 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:4:min4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:5:min5 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:5:min5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:6:fib1 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:6:fib1.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:7:fib2 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:7:fib2.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:8:fib3 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:8:fib3.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:9:fib4 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:9:fib4.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:10:fib5 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:10:fib5.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Test suite:11:fib6 is successful.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:11:fib6.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Still 1 tests running : suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: Start test suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Still 1 tests running : suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Test suite:12:test has failed.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: expected: aa but got: aaa in test suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 E: 
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Still 1 tests running : suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#01 I: End test suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Still 1 tests running : suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 1 tests running: suite:12:test.
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: 0 tests running: .
+2017-04-10T02:24:18+00:00 ieng6-202.ucsd.edu#00 I: Worker ieng6-202.ucsd.edu#01 has ended.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Used 1 worker during test execution.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Run 13 tests with shard ieng6-202.ucsd.edu#01.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: ==============
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Summary:
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 E: Test suite:12:test has failed.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 E: expected: aa but got: aaa in test suite:12:test.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 E: 
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:11:fib6 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:10:fib5 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:9:fib4 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:8:fib3 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:7:fib2 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:6:fib1 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:5:min5 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:4:min4 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:3:min3 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:2:min2 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:1:min1 is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Test suite:0:fact is successful.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Ran: 13 tests in: 0.21 seconds.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Cases: 13.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Tried: 13.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Errors: 0.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Failures: 1.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Skip: 0.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Todo: 0.
+2017-04-10T02:24:19+00:00 ieng6-202.ucsd.edu#00 I: Timeout: 0.
